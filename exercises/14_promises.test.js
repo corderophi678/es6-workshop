@@ -70,7 +70,7 @@ function pickApple(ripeness) {
 
 //////// Elaboration & Feedback /////////
 /*
-http://ws.kcd.im/?ws=ES6+and+Beyond&e=Promises&em=
+http://ws.kcd.im/?ws=ES6+and+Beyond&e=Promises&em=rich@corderophilosophy.com
 */
 test('I submitted my elaboration and feedback', () => {
   const submitted = false // change this when you've submitted!
